@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Menu Blitz</string>
+    <string name="configuracoes">Configurações</string>
+    <string name="amigos">Amigos</string>
+    <string name="grupos">Grupos</string>
+    <string name="desenhar">Desenhar</string>
+    <string name="salvos">Salvos</string>
+    <string name="favoritos">Favoritos</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+
+        android:id="@+id/mAmigos"
+        android:icon="@drawable/baseline_person"
+        android:title="@string/amigos"
+
+        />
+    <item
+
+        android:id="@+id/mGrupos"
+        android:icon="@drawable/baseline_people"
+        android:title="@string/grupos"
+
+        />
+    <item
+
+        android:id="@+id/mDesenhar"
+        android:icon="@drawable/baseline_brush"
+        android:title="@string/desenhar"
+
+        />
+    <item
+
+        android:id="@+id/mSalvos"
+        android:icon="@drawable/baseline_bookmarks"
+        android:title="@string/salvos"
+
+        />
+
+</menu>
